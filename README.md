@@ -1,3 +1,3 @@
 # Hello One-Dark-Theme is my theme in vscode 
 
-[image!]![one dark](https://user-images.githubusercontent.com/92510927/146053987-fb9819aa-700b-4626-9ab6-a8cde473ba4d.png)
+![one dark](https://user-images.githubusercontent.com/92510927/146053987-fb9819aa-700b-4626-9ab6-a8cde473ba4d.png)
